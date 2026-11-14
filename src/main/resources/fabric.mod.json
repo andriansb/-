@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "dread",
+  "version": "${version}",
+  "name": "Dread",
+  "description": "Хоррор-мод: в темноте вас выслеживает Сталкер, замирающий под вашим взглядом. Жуткие звуки, шаги за спиной, гаснущие факелы и нарастающий страх.",
+  "authors": ["Dread contributors"],
+  "license": "MIT",
+  "icon": "assets/dread/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.dreadmod.Dread"],
+    "client": ["com.dreadmod.client.DreadClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

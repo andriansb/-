@@ -1,0 +1,8 @@
+{
+  "entity.dread.stalker": "Сталкер",
+  "item.dread.stalker_spawn_egg": "Яйцо призыва Сталкера",
+  "item.dread.ward_charm": "Оберег",
+  "item.dread.ward_charm.tooltip": "Прогоняет то, что идёт за вами в темноте.",
+  "item.dread.ward_charm.banished": "Тьма отступает...",
+  "item.dread.ward_charm.nothing": "Воздух неподвижен. Пока что."
+}

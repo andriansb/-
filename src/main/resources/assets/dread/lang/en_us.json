@@ -1,0 +1,8 @@
+{
+  "entity.dread.stalker": "The Stalker",
+  "item.dread.stalker_spawn_egg": "Stalker Spawn Egg",
+  "item.dread.ward_charm": "Ward Charm",
+  "item.dread.ward_charm.tooltip": "Banishes whatever follows you in the dark.",
+  "item.dread.ward_charm.banished": "The darkness recoils...",
+  "item.dread.ward_charm.nothing": "The air is still. For now."
+}
